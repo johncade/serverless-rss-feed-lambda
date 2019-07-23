@@ -1,0 +1,25 @@
+{
+  "name": "serverless-rss-fetch-lambda",
+  "version": "1.0.0",
+  "description": "RSS Fetch lambda",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/johncade/serverless-rss-fetch-lambda.git"
+  },
+  "author": "johncade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/johncade/serverless-rss-fetch-lambda/issues"
+  },
+  "homepage": "https://gitlab.com/johncade/serverless-rss-fetch-lambda#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  },
+  "dependencies": {
+    "feedparser": "^2.2.9"
+  }
+}
