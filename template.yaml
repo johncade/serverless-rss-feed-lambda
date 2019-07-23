@@ -8,7 +8,7 @@ Resources:
       Description: !Sub
         - Stack ${StackTagName} Environment ${EnvironmentTagName} Function ${ResourceName}
         - ResourceName: rssfetch
-      CodeUri: src/index.js
+      CodeUri: src/
       Handler: index.handler
       Runtime: nodejs10.x
       MemorySize: 128
