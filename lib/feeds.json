@@ -1,0 +1,13 @@
+[
+    "http://sports.espn.go.com/espn/rss/ncf/news",
+    "https://deadspin.com/rss",
+    "http://www.yardbarker.com/rss/rumors",
+    "https://n.rivals.com/feed",
+    "https://www.bleacherreport.com/articles/feed?tag_id=160",
+    "https://ib.adnxs.com/seg?add=1&redir=http%3A%2F%2Fapi.foxsports.com%2Fv1%2Frss%3FpartnerKey%3DzBaFxRyGKCfxBagJG9b8pqLyndmvo7UU%26tag%3Dcfb",
+    "https://ib.adnxs.com/seg?add=1&redir=http%3A%2F%2Fapi.foxsports.com%2Fv1%2Frss%3FpartnerKey%3DzBaFxRyGKCfxBagJG9b8pqLyndmvo7UU%26tag%3Dnfl",
+    "http://www.cbssports.com/rss/headlines",
+    "http://www.cbssports.com/rss/headlines/college-football",
+    "http://www.cbssports.com/rss/headlines/nfl",
+    "http://www.nfl.com/rss/rsslanding?searchString=home"
+]
